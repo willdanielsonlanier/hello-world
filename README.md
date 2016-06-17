@@ -1,2 +1,2 @@
 # hello-world
-tutorial!
+I'm following the rules.
